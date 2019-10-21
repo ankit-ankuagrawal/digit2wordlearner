@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Digit 2 Word Learner</string>
+    <string name="digits">Digits</string>
+    <string name="words">Words</string>
+    <string name="words_in_english">Words in English</string>
+    <string name="indian_formatter">Indian Format</string>
+    <string name="not_supported">Not Supported</string>
+
+    <string name="exit_app">Exit the App</string>
+    <string name="rate_app">Rate the App</string>
+    <string name="share_app">Share the App</string>
+
+    <string name="copy_result">Copy result</string>
+    <string name="share_result">Share result</string>
+
+    <string name="digits_not_entered">Digits not entered</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="install_the_app">Install the %s App\n %s</string>
+    <string name="share_content">Share the content</string>
+    <string name="app">App</string>
+</resources>

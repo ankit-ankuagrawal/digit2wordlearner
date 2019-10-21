@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Digit 2 Word Learner</string>
+    <string name="digits">अंक</string>
+    <string name="words">शब्द</string>
+    <string name="indian_formatter">भारतीय प्रारूप</string>
+    <string name="not_supported">समर्थित नहीं</string>
+
+    <string name="exit_app">ऐप से बाहर निकलें</string>
+    <string name="rate_app">एप्लिकेशन की श्रेणी बताओ</string>
+    <string name="share_app">ऐप साझा करें</string>
+
+    <string name="copy_result">परिणाम की प्रतिलिपि बनाएँ</string>
+    <string name="share_result">परिणाम साझा करें</string>
+
+    <string name="digits_not_entered">अंक दर्ज नहीं किए गए</string>
+    <string name="copied">क्लिपबोर्ड पर नकल</string>
+    <string name="install_the_app">इंस्टॉल करो %s एप्लिकेशन\n %s</string>
+    <string name="share_content">डेटा साझा करें</string>
+    <string name="app">एप्लिकेशन</string>
+</resources>

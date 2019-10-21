@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Digit 2 Word Learner</string>
+    <string name="digits">ਅੰਕ</string>
+    <string name="words">ਸ਼ਬਦ</string>
+    <string name="indian_formatter">ਭਾਰਤੀ ਫਾਰਮੈਟ</string>
+    <string name="not_supported">ਸਹਾਇਕ ਨਹੀ ਹੈ</string>
+
+    <string name="exit_app">ਐਪ ਤੋਂ ਬਾਹਰ ਜਾਓ</string>
+    <string name="rate_app">ਐਪ ਨੂੰ ਦਰਜਾਓ</string>
+    <string name="share_app">ਐਪ ਨੂੰ ਸਾਂਝਾ ਕਰੋ</string>
+
+    <string name="copy_result">ਨਤੀਜਾ ਕਾੱਪੀ ਕਰੋ</string>
+    <string name="share_result">ਸ਼ੇਅਰ ਨਤੀਜਾ</string>
+
+    <string name="digits_not_entered">ਅੰਕ ਦਾਖਲ ਨਹੀਂ ਕੀਤੇ ਗਏ</string>
+    <string name="copied">ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਨਕਲ ਕੀਤਾ</string>
+    <string name="install_the_app">ਇੰਸਟਾਲ ਕਰੋ %s ਐਪਲੀਕੇਸ਼ਨ\n %s</string>
+    <string name="share_content">ਸਮੱਗਰੀ ਨੂੰ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="app">ਐਪਲੀਕੇਸ਼ਨ</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/miExitTheApp"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="@string/exit_app" />
+    <item
+        android:id="@+id/miRateTheApp"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="@string/rate_app" />
+    <item
+        android:id="@+id/miShareTheApp"
+        android:icon="@drawable/ic_share_black_24dp"
+        android:title="@string/share_app" />
+
+</menu>
